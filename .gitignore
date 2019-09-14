@@ -1,0 +1,6 @@
+unfurl
+*.swp
+*.tgz
+*.exe
+*.zip
+urls.txt
